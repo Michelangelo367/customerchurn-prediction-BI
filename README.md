@@ -1,5 +1,4 @@
 # Predicting customer churn of a Telecom Company (with BI recommendations)
-A customer churn ML prediction with business intelligence recommendations
 
 Here I walk through all the data analysis process: data exploration, wrangling, feature selection, algorithm training and testing, and analysis of the final model metrics. 
 
